@@ -125,4 +125,4 @@ primes”?
 I don't know, it seems unlikely though. Once again I will write a
 [program](https://github.com/psibi/rwh/blob/78a5676662b7ecc3b2a01bdeb326986bb4d496cb/misc/Factor.hs#L35)
 to check this stuff. I checked it from the first 2000 numbers and I
-wans't able to find any triplet primes, Sorry!
+wans't able to find any triplet primes, Sorry! 
